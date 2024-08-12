@@ -38,7 +38,9 @@ The function returns:
 <br>
 <h2 id="credits">Collaborators/Creditors 🏆</h2>
 
-👨‍💻 We are Coding BootCamp Alumni of [UCF](https://www.ucf.edu/students/)  ⭐️
+👨‍💻 I am Coding BootCamp Alumni of [UCF](https://www.ucf.edu/students/)  ⭐️
 
+👨‍💻 I  am Associate Data Analyst of [DATACAMP](https://www.datacamp.com/portfolio/ginuwine104)  ⭐️
 
 - [Profile]( https://github.com/JonJon50  " John Hagens ") -- John Hagens
+- [Linkedin Profile]( https://www.linkedin.com/in/john-hagens-55b15212a/ " John Hagens ") -- John Hagens
